@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Forma Definitiva de Emagrecer</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fff; color: #333; }
+    .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+    h1, h2, h3 { color: #E91E63; }
+    .button { background: #E91E63; color: white; padding: 15px 25px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 20px; }
+    .section { margin: 40px 0; }
+    .highlight { background: #fef2f5; padding: 10px; border-left: 5px solid #E91E63; }
+    .testimonials { font-style: italic; background: #f9f9f9; padding: 20px; border-radius: 5px; }
+    footer { margin-top: 60px; text-align: center; font-size: 14px; color: #777; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Você já tentou de tudo para emagrecer... e nada funcionou?</h1>
+    <p class="highlight">Descubra o método leve, definitivo e sustentável para perder peso de verdade — sem dietas malucas, sem academia e sem efeito sanfona.</p>
+
+    <div class="section">
+      <h2>Se você já...</h2>
+      <ul>
+        <li>Cortou tudo que ama da alimentação</li>
+        <li>Tentou jejum, low carb, shake, termogênico</li>
+        <li>Perdeu peso e recuperou tudo depois...</li>
+      </ul>
+      <p><strong>... então o problema não é você. É o método.</strong></p>
+    </div>
+
+    <div class="section">
+      <h2>Apresentamos o método dos 3 pilares para emagrecer de verdade:</h2>
+      <h3>💪 Mente:</h3>
+      <p>Reprograme seus hábitos e supere o efeito sanfona</p>
+      <h3>🔥 Metabolismo:</h3>
+      <p>Ative seu corpo com os alimentos certos</p>
+      <h3>🏃‍♀️ Movimento:</h3>
+      <p>Faça o mínimo necessário e veja resultados reais</p>
+    </div>
+
+    <div class="section">
+      <h2>O que você vai receber:</h2>
+      <ul>
+        <li>Método passo a passo para emagrecimento real</li>
+        <li>Cronograma de 21 dias com metas e tarefas simples</li>
+        <li>Cardápio inteligente + lista de compras prática</li>
+        <li>Exercícios rápidos em casa</li>
+        <li><strong>Bônus:</strong> Áudio de mentalização para desbloqueio de hábitos</li>
+      </ul>
+      <p><strong>💰 Tudo isso por apenas R$29,90</strong></p>
+      <a href="#" class="button">COMPRAR AGORA</a>
+    </div>
+
+    <div class="section testimonials">
+      <h2>Quem já usou, recomenda:</h2>
+      <p>“Eu não acreditava mais em nada... Esse método mudou minha relação com a comida e comigo mesma.”<br><em>— Juliana R.</em></p>
+      <p>“Perdi 6kg em 1 mês e pela primeira vez sinto que é algo que vou manter.”<br><em>— Camila T.</em></p>
+    </div>
+
+    <div class="section">
+      <h2>Garantia Incondicional</h2>
+      <p>✅ Garantia de 7 dias: se você não sentir que o ebook te ajudou, devolvemos 100% do seu dinheiro.</p>
+    </div>
+
+    <div class="section">
+      <h2>Dúvidas Frequentes</h2>
+      <p><strong>É um plano de dieta?</strong><br>Não. É um método para reeducar sua mente, metabolismo e movimento.</p>
+      <p><strong>Funciona para quem tem pouco tempo?</strong><br>Sim! Pensado para quem tem rotina corrida.</p>
+      <p><strong>Tem suporte?</strong><br>Sim! Nosso suporte estará disponível por e-mail.</p>
+    </div>
+
+    <footer>
+      &copy; 2025 Ebook Emagreça de Verdade. Todos os direitos reservados.
+    </footer>
+  </div>
+</body>
+</html>
